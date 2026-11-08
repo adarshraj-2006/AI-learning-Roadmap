@@ -45,10 +45,10 @@ OOP means Object-Oriented Programming.
 ### Example
 
 ```python
+
 class Student:
     def __init__(self, name):
         self.name = name
-
     def display(self):
         print(self.name)
 
