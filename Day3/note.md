@@ -78,31 +78,3 @@ import csvwith open("students.csv", "r") as f:    reader = csv.DictReader(f)    
 
 DictReader converts each row into a dictionary.
 
-
-
-# question below this 
-Create a function that returns the maximum number in a list.
-
-
-
-Create a module containing multiplication and division functions.
-
-
-
-Handle ValueError when converting user input into integers.
-
-
-
-Read a CSV and calculate the average marks.
-
-
-
-Write a CSV containing only students scoring above 75.
-
-
-
-Handle missing age values while reading a CSV.
-
-
-
-Count the number of valid and invalid email addresses in a CSV.
