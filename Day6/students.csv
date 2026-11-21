@@ -1,0 +1,16 @@
+Student_ID,Name,Age,Gender,City,Marks,Attendance,Department
+101,Adarsh Raj,21,Male,Delhi,85,92,CSE
+102,Rishav Raj,22,Male,Jaipur,90,88,IT
+103,Sahil Raj,20,Male,Delhi,78,95,CSE
+104,Surya Pratap,22,Male,Mumbai,65,75,ECE
+105,Rohit Kumar,21,Male,Jaipur,88,90,CSE
+106,Ananya Sharma,20,Female,Patna,95,98,IT
+107,Priya Singh,23,Female,Delhi,72,80,ECE
+108,Aman Verma,21,Male,Mumbai,55,65,CSE
+109,Neha Gupta,22,Female,Jaipur,82,85,IT
+110,Karan Mehta,20,Male,Patna,91,93,CSE
+111,Riya Das,21,Female,Delhi,,89,ECE
+112,Vikas Kumar,22,Male,Mumbai,68,,IT
+113,Meera Singh,20,Female,Jaipur,87,94,CSE
+114,Arjun Patel,23,Male,Patna,74,78,ECE
+115,Kavya Rao,21,Female,Delhi,96,97,IT

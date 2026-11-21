@@ -36,7 +36,7 @@ print(f"Determinant of the Matrix:\n{d}")
 # matrix multiplication 
 # The objective of this question is to 
 # understand why NumPy performs matrix multiplication faster than normal Python loops.
-import numpy as np
+
 import time
 
 a=np.random.rand(200,200)
