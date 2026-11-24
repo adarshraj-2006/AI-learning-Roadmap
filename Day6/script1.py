@@ -35,3 +35,15 @@ df.dropna(axis=1)
 
 # Remove rows having missing values in specific columns
 df.dropna(subset=["Age"])
+
+# Remove rows containing at least one missing value
+df_without_missing_rows = df.dropna()
+
+# Remove rows where every value is missing
+df_without_empty_rows = df.dropna(how="all")
+
+# Remove columns containing missing values
+df_without_missing_columns = df.dropna(axis=1)
+
+# Remove rows with missing values in selected columns
+df_without_missing_age = df.dropna(subset=["Age"])

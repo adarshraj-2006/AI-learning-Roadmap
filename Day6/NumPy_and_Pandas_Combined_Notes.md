@@ -1,8 +1,21 @@
-
+5 Question for this Day task : 
+Load a CSV containing student records and display the top 5 students by marks.
+Find missing values in a dataset and fill numerical columns using their median.
+Filter employees whose salary is above ₹30,000 and age is below 30.
+Remove duplicate records and save the cleaned dataset.
+Load a sales dataset, filter sales above ₹5,000, calculate average sales, and save the filtered results.
 ------------------------------------------------------------------------
-
+![alt text](image.png)
 # Part 2: Pandas -- DataFrames, Filtering, Missing Values and Data Cleaning
 
+<!-- pd.read_csv()
+pd.DataFrame()
+head(), info(), describe()
+iloc[] and column selection
+Boolean filtering
+isnull().sum()
+fillna() and dropna()
+to_csv() -->
 ## 1. What is Pandas?
 
 Pandas is a Python library used for data manipulation and analysis.
@@ -352,21 +365,6 @@ Check data types:
 ``` python
 print(df.dtypes)
 ```
-
-## 9. Pandas Practice Questions
-
-Try these without looking at the solutions:
-
-1.  Display the first 10 rows of a dataset.
-2.  Find the total number of rows and columns.
-3.  Count missing values in each column.
-4.  Replace missing `Age` values with the median.
-5.  Remove duplicate rows.
-6.  Filter students whose marks are greater than 85.
-7.  Find students whose age is between 20 and 23.
-8.  Filter students belonging to Delhi or Mumbai.
-9.  Display only `Name` and `Marks` for students scoring above 80.
-10. Clean a dataset and save it as a new CSV file.
 
 ## 10. Pandas Quick Revision
 
